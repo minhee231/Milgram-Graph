@@ -14,7 +14,7 @@ def get_past_data(s3_path: str):
 
 
 
-# ds = get_viedeo_info("OOIAhfo6wbg","AIzaSyBgWXKe_s9GKKIticX1sDzhx2gHVJt4Tm8")
+
 
 # print(ds["items"][0]["id"]) # 유튜브 id 호출
 # print(ds["items"][0]["snippet"]["title"]) #영상 제목 호출
