@@ -1,0 +1,504 @@
+{
+    "HARUKA": {
+        "total_views": {
+            "mv": 5889487,
+            "ch_album": 443884,
+            "cover": 645800,
+            "voice_drama": 56831,
+            "cover_off_voice": 26816,
+            "ch_off_voice": 28910
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 1537,
+                "ch_album": 320,
+                "cover": 263,
+                "voice_drama": 20,
+                "cover_off_voice": 14,
+                "ch_off_voice": 14
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            }
+        }
+    },
+    "YUNO": {
+        "total_views": {
+            "mv": 5488912,
+            "ch_album": 469949,
+            "cover": 599962,
+            "voice_drama": 44914,
+            "cover_off_voice": 27740,
+            "ch_off_voice": 33603
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 1329,
+                "ch_album": 264,
+                "cover": 250,
+                "voice_drama": 20,
+                "cover_off_voice": 8,
+                "ch_off_voice": 21
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            }
+        }
+    },
+    "FUTA": {
+        "total_views": {
+            "mv": 5979537,
+            "ch_album": 734041,
+            "cover": 1059695,
+            "voice_drama": 53217,
+            "cover_off_voice": 39735,
+            "ch_off_voice": 56522
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 1473,
+                "ch_album": 438,
+                "cover": 351,
+                "voice_drama": 21,
+                "cover_off_voice": 19,
+                "ch_off_voice": 16
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            }
+        }
+    },
+    "MU": {
+        "total_views": {
+            "mv": 9322985,
+            "ch_album": 883902,
+            "cover": 867525,
+            "voice_drama": 53656,
+            "cover_off_voice": 29961,
+            "ch_off_voice": 66560
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 3329,
+                "ch_album": 615,
+                "cover": 348,
+                "voice_drama": 26,
+                "cover_off_voice": 13,
+                "ch_off_voice": 30
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            }
+        }
+    },
+    "SHIDOU": {
+        "total_views": {
+            "mv": 3889299,
+            "ch_album": 382678,
+            "cover": 654649,
+            "voice_drama": 41397,
+            "cover_off_voice": 19504,
+            "ch_off_voice": 24151
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 940,
+                "ch_album": 167,
+                "cover": 366,
+                "voice_drama": 14,
+                "cover_off_voice": 5,
+                "ch_off_voice": 14
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            }
+        }
+    },
+    "MAHIRU": {
+        "total_views": {
+            "mv": 5876247,
+            "ch_album": 563528,
+            "cover": 608126,
+            "voice_drama": 44216,
+            "cover_off_voice": 31866,
+            "ch_off_voice": 46863
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 1732,
+                "ch_album": 366,
+                "cover": 251,
+                "voice_drama": 17,
+                "cover_off_voice": 7,
+                "ch_off_voice": 15
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            }
+        }
+    },
+    "KAZUI": {
+        "total_views": {
+            "mv": 3453416,
+            "ch_album": 292071,
+            "cover": 366165,
+            "voice_drama": 37178,
+            "cover_off_voice": 17459,
+            "ch_off_voice": 27711
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 1053,
+                "ch_album": 230,
+                "cover": 170,
+                "voice_drama": 13,
+                "cover_off_voice": 6,
+                "ch_off_voice": 15
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            }
+        }
+    },
+    "AMANE": {
+        "total_views": {
+            "mv": 9980350,
+            "ch_album": 783098,
+            "cover": 630239,
+            "voice_drama": 89661,
+            "cover_off_voice": 28607,
+            "ch_off_voice": 52315
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 5469,
+                "ch_album": 878,
+                "cover": 353,
+                "voice_drama": 21,
+                "cover_off_voice": 9,
+                "ch_off_voice": 20
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            }
+        }
+    },
+    "MIKOTO": {
+        "total_views": {
+            "mv": 10472219,
+            "ch_album": 626743,
+            "cover": 1047635,
+            "voice_drama": 69714,
+            "cover_off_voice": 32707,
+            "ch_off_voice": 53216
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 2808,
+                "ch_album": 412,
+                "cover": 792,
+                "voice_drama": 21,
+                "cover_off_voice": 9,
+                "ch_off_voice": 33
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            }
+        }
+    },
+    "KOTOKO": {
+        "total_views": {
+            "mv": 3233208,
+            "ch_album": 442730,
+            "cover": 398416,
+            "voice_drama": 34405,
+            "cover_off_voice": 17033,
+            "ch_off_voice": 23688
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 1388,
+                "ch_album": 342,
+                "cover": 273,
+                "voice_drama": 13,
+                "cover_off_voice": 8,
+                "ch_off_voice": 46
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0
+            }
+        }
+    },
+    "ES": {
+        "thema": {
+            "mv": 5860822,
+            "ch_album": 240385,
+            "cover": 373460,
+            "voice_drama": 27736,
+            "cover_off_voice": 19257,
+            "ch_off_voice": 78323,
+            "first_trial_cover": 4783627
+        },
+        "first_trial_cover": {
+            "total": 4783627,
+            "001": 462516,
+            "002": 405776,
+            "003": 420285,
+            "004": 1141474,
+            "005": 339842,
+            "006": 621309,
+            "007": 207049,
+            "008": 493880,
+            "009": 691496,
+            "010": 0
+        },
+        "view_diffs": {
+            "1day": {
+                "mv": 1054,
+                "ch_album": 239,
+                "cover": 200,
+                "voice_drama": 10,
+                "cover_off_voice": 4,
+                "ch_off_voice": 105,
+                "first_trial_cover": 0
+            },
+            "7day": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0,
+                "first_trial_cover": 0
+            },
+            "1month": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0,
+                "first_trial_cover": 0
+            },
+            "1year": {
+                "mv": 0,
+                "ch_album": 0,
+                "cover": 0,
+                "voice_drama": 0,
+                "cover_off_voice": 0,
+                "ch_off_voice": 0,
+                "first_trial_cover": 0
+            }
+        }
+    }
+}
